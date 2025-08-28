@@ -55,7 +55,7 @@ The system should be designed as a **modular, API-driven architecture**, where c
 
 
 ---
-### Attendance
+### Participation
 
 - Subham  | 
 - Trupti  
