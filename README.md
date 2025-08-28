@@ -43,7 +43,11 @@ The system should be designed as a **modular, API-driven architecture**, where c
 ## Project Milestones
 
 ### **Week 1–3 — Foundations**
+Identified references: 
+[28/08/25, 11:19:15 AM] Vinu: https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf
+[28/08/25, 11:19:30 AM] Vinu: https://aclanthology.org/2025.coling-main.178.pdf
 
+Discuss the above paper and expand on the ideas—similar to the negation documents we discussed, what other strategies could be explored to improve the system’s accuracy? Identify and discuss relevant datasets in this context, and provide a concrete example based on the Digital Personal Data Protection Act, 2023.
 
 ### **Week 4–6 — RAG & Engine v1**
 
@@ -57,7 +61,7 @@ The system should be designed as a **modular, API-driven architecture**, where c
 ---
 ### Participation
 
-- Subham  | 
-- Trupti  
+- Subham  ||
+- Trupti  |
 - Divyam  | 
-- Owais   
+- Owais   |
