@@ -51,6 +51,14 @@ The system should be designed as a **modular, API-driven architecture**, where c
 ### **Week 7–8 — **
 
 
+### Attendance
+
+- Subham  | 
+- Trupti  
+- Divyam  | 
+- Owais   
+
+
 ### **Week 9–11 — **
 
 
