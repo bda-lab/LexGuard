@@ -1,0 +1,5 @@
+[
+  {"subject": "DataController", "predicate": "mustProtect", "object": "PersonalData"},
+  {"subject": "DataProcessor", "predicate": "mustFollow", "object": "Instructions"},
+  {"subject": "PersonalData", "predicate": "isDefinedAs", "object": "Any information about an individual"}
+]
