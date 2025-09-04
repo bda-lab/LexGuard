@@ -40,6 +40,10 @@ The system should be designed as a **modular, API-driven architecture**, where c
 - Deliverables: Web UI, REST APIs, deployment scripts, observability dashboards.
 
 ---
+## Notion Page
+https://rust-mandolin-74e.notion.site/LexGuard-25ca338f8c5b80aca495c55c3bdc8ea2?pvs=74
+
+---
 ## Project Milestones
 
 ### **Week 1–3 — Foundations**
