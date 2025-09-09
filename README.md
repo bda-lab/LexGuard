@@ -44,6 +44,29 @@ The system should be designed as a **modular, API-driven architecture**, where c
 https://rust-mandolin-74e.notion.site/LexGuard-25ca338f8c5b80aca495c55c3bdc8ea2?pvs=74
 
 ---
+## Potential datasets for testing the pipeline
+
+https://stanfordnlp.github.io/contract-nli/
+
+The ContractNLI dataset contains contracts (NDAs), fixed hypotheses (requirements), and human annotations that say whether each requirement is entailed (compliant), contradicted (noncompliant), or not mentioned (uncertain), along with the evidence spans in the contract text.
+
+I converted the raw JSON format into a structured CSV/Excel file where each row contains:
+--- reference_clause → the hypothesis text (requirement)
+--- target_clause → the evidence span from the contract
+---compliance → one of compliant, noncompliant, or uncertain
+---source_file → original contract filename
+
+### Why this is useful
+
+Our final system will take two documents (a reference requirements sheet and a target contract) and produce a compliance report.
+
+The ContractNLI-based CSV acts as a testbed for this pipeline because:
+
+Each row is a mini version of our task (requirement vs contract clause → compliance label).
+
+The compliance labels are ground truth, so we can check if our pipeline makes the right predictions.
+
+---
 ## Project Milestones
 
 ### **Week 1–3 — Foundations**
