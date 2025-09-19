@@ -1,0 +1,67 @@
+[
+  {
+    "experiment": "semantic_sim74",
+    "avg_score": 0.6188804055253665,
+    "n": 90
+  },
+  {
+    "experiment": "recursive_128_ov16",
+    "avg_score": 0.6006306522422367,
+    "n": 90
+  },
+  {
+    "experiment": "simple_128_ov8",
+    "avg_score": 0.596601238515642,
+    "n": 90
+  },
+  {
+    "experiment": "simple_128_ov16",
+    "avg_score": 0.5895836061901516,
+    "n": 90
+  },
+  {
+    "experiment": "recursive_128_ov8",
+    "avg_score": 0.5886733265386688,
+    "n": 90
+  },
+  {
+    "experiment": "recursive_256_ov8",
+    "avg_score": 0.5569142662816577,
+    "n": 90
+  },
+  {
+    "experiment": "simple_256_ov8",
+    "avg_score": 0.5542743926246961,
+    "n": 90
+  },
+  {
+    "experiment": "recursive_256_ov16",
+    "avg_score": 0.5534222741921743,
+    "n": 90
+  },
+  {
+    "experiment": "simple_256_ov16",
+    "avg_score": 0.552067007124424,
+    "n": 90
+  },
+  {
+    "experiment": "recursive_512_ov8",
+    "avg_score": 0.539237225221263,
+    "n": 90
+  },
+  {
+    "experiment": "simple_512_ov8",
+    "avg_score": 0.5352487911780676,
+    "n": 90
+  },
+  {
+    "experiment": "simple_512_ov16",
+    "avg_score": 0.5303318740593063,
+    "n": 90
+  },
+  {
+    "experiment": "recursive_512_ov16",
+    "avg_score": 0.5270462551050716,
+    "n": 90
+  }
+]
